@@ -1,4 +1,4 @@
-Zymer
+<h1>Zymer</h1>
 An Interactive Console-Based Adventure Inspired by the Timeless Spirit of Zork.
 
 Overview
