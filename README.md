@@ -37,7 +37,8 @@
 
 <pre><code>git clone https://github.com/username/zymer
 cd zymer
-python3 zymer.py
+javac Zymer.java
+java Zymer
 </code></pre>
 
 <h2>Contribution</h2>
